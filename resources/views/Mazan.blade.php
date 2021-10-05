@@ -39,7 +39,7 @@
                             <hr class="my-4">
                         <div class="d-grid mb-2">
                <button class="btn btn-google btn-login text-uppercase fw-bold" type="submit">
-            <i class="fab fa-google me-2"></i> Sign in with Google
+            <i class="fab fa-google me-2"></i> Sign in with facebook
        </button>
        </div>
        <div class="d-grid">
